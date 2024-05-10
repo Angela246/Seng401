@@ -1,2 +1,3 @@
 # Seng401
-Seng401 Study Notes
+Seng401 - University of Canterbury (UC) 
+Study Notes
